@@ -2,7 +2,7 @@ Convex Hull
 ===========
 
 Riley Lundquist
-Convex Hull Project
+
 May, 2013
 
 Files:
@@ -23,7 +23,7 @@ $ python ConvexHull.py
 You will then be prompted for the name of a data file. Enter the name of the file, and the program will print the points on the convex hull in counterclockwise order:
 
 ```
-Enter name of file containing data set (e.g. test.txt, or points.dat):
+Enter name of file containing data set (e.g. test.txt or points.dat):
 10000n.dat
 (-3.97683835029602, 0.0402181185781956)
 (-3.09143090248108, -1.98761200904846)
