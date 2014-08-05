@@ -3,7 +3,7 @@ Convex Hull
 
 Riley Lundquist
 
-May, 2013
+May 2013
 
 Files:
 
