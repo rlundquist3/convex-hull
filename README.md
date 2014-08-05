@@ -6,6 +6,7 @@ Riley Lundquist
 May, 2013
 
 Files:
+
 ConvexHull.py contains the main convex hull program. It implements the divide and conquer algorithm to solve the convex hull problem. Documentation of methods is included in the file.
 
 Hull.py is an implementation of a circular list (Python's equivalent of an array). This is used for indexing the data in a circular manner, allowing accesses beyond the bounds of the list. Documentation of the class and its methods is included in the file.
